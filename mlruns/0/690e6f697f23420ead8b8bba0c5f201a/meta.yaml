@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FIRSTMLOPSPROJECT/mlruns/0/690e6f697f23420ead8b8bba0c5f201a/artifacts
+end_time: 1715882611236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 690e6f697f23420ead8b8bba0c5f201a
+run_name: skittish-tern-639
+run_uuid: 690e6f697f23420ead8b8bba0c5f201a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715882605262
+status: 3
+tags: []
+user_id: imaba
